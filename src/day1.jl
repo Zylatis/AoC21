@@ -61,8 +61,6 @@ function part2_f2(data)
     return c
 end
 
-
-
 data = vec(readdlm("data/day1_data.txt"))
 val = @time part1_f1(data)
 println(val)
