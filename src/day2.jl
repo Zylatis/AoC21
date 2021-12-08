@@ -39,7 +39,7 @@ end
 # Part 2
 function part2_f1(data)
    
-    coords =[0 0 0 ]
+    coords =[0 0 0]
     dims = size(data)
     len = dims[1]
     for i in 1:dims[1]
